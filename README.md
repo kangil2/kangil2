@@ -10,7 +10,7 @@
     </a>
   </p>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kangil2&theme=react-dark&bg_color=333333&hide_border=true&line=efefea&color=9aecfd"         width=99%/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=kangil2&theme=react-dark&bg_color=20232A&hide_border=true&line=efefea&color=9aecfd"         width=99%/>
   </a>
 </h1>
   <p>
