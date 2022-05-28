@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**kangil2/kangil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <br>
+    <b>Hi there 👋</b>
+  <br/>
+<br>
+  <p align="left">
+    <a href="https://abhigyantrips.dev/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kangil2&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kangil2&theme=gruvbox&hide_border=true" />
+    </a>
+  </p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=kangil2&theme=react-dark&bg_color=333333&hide_border=true&line=efefea&color=9aecfd"         width=99%/>
+  </a>
+</h1>
+  <p>
+    <br>
+      <div align="center">
+      <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+      <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+      <img src="https://img.shields.io/badge/-MySQL-98b982?style=for-the-badge&logo=MySQL&logoColor=98b982&labelColor=282828">
+      <img src="https://img.shields.io/badge/-Python-82b3b9?style=for-the-badge&logo=Python&logoColor=82b3b9&labelColor=282828">
+      <img src="https://img.shields.io/badge/-Django-a382b9?style=for-the-badge&logo=Django&logoColor=a382b9&labelColor=282828">
+      </div>
+    <br/>
+  </p>
