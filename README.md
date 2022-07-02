@@ -1,5 +1,7 @@
 <h1 align="center">
-    <br>Hi there 👋</br>
+  <br>
+  </br>
+    <p>Hi there 👋</p>
   <br>
   </br>
   <a href="https://abhigyantrips.dev/">
