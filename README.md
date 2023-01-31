@@ -2,16 +2,14 @@
   <br>
   </br>
     <p>Hi there 👋</p>
+</h1>
   <br>
   </br>
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kangil2&show_icons=true&theme=react&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kangil2&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kangil2&theme=react-dark&bg_color=20232A&hide_border=true&line=efefea&color=9aecfd"         width=99%/>
-  </a>
-</h1>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kangil2&theme=react-dark">
   <p>
     <br>
       <div align="center">
